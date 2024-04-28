@@ -10,21 +10,21 @@ Minecraft 1.15.x 稀有矿物合成辅助的forge模组
 
 # 合成表
 
-![image-20240428115408830](D:\Github\wood2gold\README.assets\image-20240428115408830.png)
+![image-20240428115408830](./README.assets/image-20240428115408830.png)
 
-![image-20240428115422804](D:\Github\wood2gold\README.assets\image-20240428115422804.png)
+![image-20240428115422804](./README.assets/image-20240428115422804.png)
 
-![image-20240428115727854](D:\Github\wood2gold\README.assets\image-20240428115727854.png)
+![image-20240428115727854](./README.assets/image-20240428115727854.png)
 
-![image-20240428115442582](D:\Github\wood2gold\README.assets\image-20240428115442582.png)
+![image-20240428115442582](./README.assets/image-20240428115442582.png)
 
-![image-20240428115457665](D:\Github\wood2gold\README.assets\image-20240428115457665.png)
+![image-20240428115457665](./README.assets/image-20240428115457665.png)
 
-![image-20240428115535023](D:\Github\wood2gold\README.assets\image-20240428115535023.png)
+![image-20240428115535023](./README.assets/image-20240428115535023.png)
 
-![image-20240428115640319](D:\Github\wood2gold\README.assets\image-20240428115640319.png)
+![image-20240428115640319](./README.assets/image-20240428115640319.png)
 
-![image-20240428115703458](D:\Github\wood2gold\README.assets\image-20240428115703458.png)
+![image-20240428115703458](./README.assets/image-20240428115703458.png)
 
 # 修改
 
