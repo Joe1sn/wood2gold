@@ -22,7 +22,7 @@ Minecraft 1.15.x 稀有矿物合成辅助的forge模组
 
 ![image-20240428115535023](./README.assets/image-20240428115535023.png)
 
-![image-20240428115640319](./README.assets/image-20240428115640319.png)
+![image-20240428115640319](./README.assets/image-20240428115637001.png)
 
 ![image-20240428115703458](./README.assets/image-20240428115703458.png)
 
